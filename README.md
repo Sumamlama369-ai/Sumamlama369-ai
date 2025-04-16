@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>🎓 BSc (Hons) Computing with Artificial Intelligence Student | 👨‍💻 AI & ML Enthusiast | 🤖 Robotics | 💡 Passionate Learner</h3>
+<h3 align="left"><br>🎓 BSc (Hons) Computing with Artificial Intelligence Student | 👨‍💻 AI & ML Enthusiast | 🤖 Robotics | 💡 Passionate Learner</h3>
 
 ###
 
